@@ -7,3 +7,9 @@
 npm  i
 
 npm  run dev
+
+
+#测试截图
+![image](https://user-images.githubusercontent.com/91325832/181408740-cfaf72c2-828d-4493-8f1e-57022fb09e09.png)
+
+
